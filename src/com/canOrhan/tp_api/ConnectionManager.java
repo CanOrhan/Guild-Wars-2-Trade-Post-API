@@ -21,7 +21,7 @@ public class ConnectionManager {
 	{
 		    // Create a new HttpClient and Post Header
 		    HttpClient httpclient = new DefaultHttpClient();
-		    HttpPost httppost = new HttpPost("https://www.account.guildwars2.com/login?redirect_uri=http%3A%2F%2Ftradingpost-live.ncplatform.net%2Fauthenticate%3Fsource%3D%252F&game_code=gw2");
+		    HttpPost httppost = new HttpPost("https://account.guildwars2.com/login?redirect_uri=http%3A%2F%2Ftradingpost-live.ncplatform.net%2Fauthenticate%3Fsource%3D%252F&game_code=gw2");
 
 		    try {
 		        // Add your data
