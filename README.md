@@ -3,7 +3,11 @@ Guild-Wars-2-Trade-Post-API
 
 A trade post API for JAVA / ANDROID
 
-Note - This doesn't actually work yet!
+Current stage
+=============
+I've managed to log into anet and get a session key. I'll be continuing development in the near future. 
+Please also check out <a href="https://github.com/rubensayshi">Ruben's</a> project, <a href="https://github.com/rubensayshi/gw2spidy">GW2Spidy</a>.
+
 
 License
 =======
